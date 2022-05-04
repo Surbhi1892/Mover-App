@@ -1,0 +1,2140 @@
+[
+    {
+        "name": "KADIN",
+        "link": "/butik/liste/kadin",
+        "categories": [
+            {
+                "name": "Giyim",
+                "link": "/kadin-giyim-x-g1-c82",
+                "subcategories": [
+                    {
+                        "name": "Elbise",
+                        "link": "/elbise-x-c56"
+                    },
+                    {
+                        "name": "Sweatshirt",
+                        "link": "/kadin-sweatshirt-x-g1-c1179"
+                    },
+                    {
+                        "name": "Kazak & Hırka",
+                        "link": "/kadin-kazak--hirka-x-g1-c101482"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "link": "/kadin-t-shirt-x-g1-c73"
+                    },
+                    {
+                        "name": "Pantolon",
+                        "link": "/kadin-pantolon-x-g1-c70"
+                    },
+                    {
+                        "name": "Gömlek",
+                        "link": "/kadin-gomlek-x-g1-c75"
+                    },
+                    {
+                        "name": "Mont",
+                        "link": "/kadin-mont-x-g1-c118"
+                    },
+                    {
+                        "name": "Bluz",
+                        "link": "/kadin-bluz-x-g1-c1019"
+                    },
+                    {
+                        "name": "Kaban",
+                        "link": "/kadin-kaban-x-g1-c1075"
+                    },
+                    {
+                        "name": "Etek",
+                        "link": "/etek-x-c69"
+                    },
+                    {
+                        "name": "Tayt",
+                        "link": "/kadin-tayt-x-g1-c121"
+                    },
+                    {
+                        "name": "Tesettür",
+                        "link": "/kadin-tesettur-giyim-x-g1-c81"
+                    },
+                    {
+                        "name": "Büyük Beden",
+                        "link": "/kadin-buyuk-beden-x-g1-c80"
+                    }
+                ]
+            },
+            {
+                "name": "Ayakkabı",
+                "link": "/kadin-ayakkabi-x-g1-c114",
+                "subcategories": [
+                    {
+                        "name": "Topuklu Ayakkabı",
+                        "link": "/kadin-topuklu-ayakkabi-x-g1-c107"
+                    },
+                    {
+                        "name": "Sneaker",
+                        "link": "/kadin-sneaker-x-g1-c1172"
+                    },
+                    {
+                        "name": "Günlük Ayakkabı",
+                        "link": "/kadin-gunluk-ayakkabi-x-g1-c1352"
+                    },
+                    {
+                        "name": "Bot & Bootie",
+                        "link": "/kadin-bot-x-g1-c1025"
+                    },
+                    {
+                        "name": "Çizme",
+                        "link": "/kadin-cizme-x-g1-c1037"
+                    },
+                    {
+                        "name": "Terlik",
+                        "link": "/kadin-terlik-x-g1-c110"
+                    }
+                ]
+            },
+            {
+                "name": "Aksesuar & Çanta",
+                "link": "/kadin-aksesuar-x-g1-c27",
+                "subcategories": [
+                    {
+                        "name": "Çanta",
+                        "link": "/kadin-canta-x-g1-c117"
+                    },
+                    {
+                        "name": "Saat",
+                        "link": "/kadin-saat-x-g1-c34"
+                    },
+                    {
+                        "name": "Takı",
+                        "link": "/kadin-taki-x-g1-c28"
+                    },
+                    {
+                        "name": "Atkı & Bere & Eldiven",
+                        "link": "/sapka--bere--eldiven-x-c101499"
+                    },
+                    {
+                        "name": "Cüzdan",
+                        "link": "/kadin-cuzdan-x-g1-c1032"
+                    }
+                ]
+            },
+            {
+                "name": "İç Giyim",
+                "link": "/kadin-ic-giyim-x-g1-c64",
+                "subcategories": [
+                    {
+                        "name": "Pijama Takımı",
+                        "link": "/kadin-pijama-takimi-x-g1-c101496"
+                    },
+                    {
+                        "name": "Gecelik",
+                        "link": "/kadin-gecelik-x-g1-c62"
+                    },
+                    {
+                        "name": "Sütyen",
+                        "link": "/kadin-sutyen-x-g1-c63"
+                    },
+                    {
+                        "name": "İç Çamaşırı Takımları",
+                        "link": "/kadin-ic-camasiri-takimlari-x-g1-c104536"
+                    },
+                    {
+                        "name": "Fantezi Giyim",
+                        "link": "/kadin-fantezi-giyim-x-g1-c109067"
+                    },
+                    {
+                        "name": "Çorap",
+                        "link": "/kadin-corap-x-g1-c1038"
+                    }
+                ]
+            },
+            {
+                "name": "Lüks & Designer",
+                "link": "/kadin-x-g1?fl=luks",
+                "subcategories": [
+                    {
+                        "name": "Lüks Çanta",
+                        "link": "/kadin-canta-x-g1-c117?fl=luks"
+                    },
+                    {
+                        "name": "Lüks Giyim",
+                        "link": "/kadin-giyim-x-g1-c82?fl=luks"
+                    },
+                    {
+                        "name": "Lüks Ayakkabı",
+                        "link": "/kadin-ayakkabi-x-g1-c114?fl=luks"
+                    },
+                    {
+                        "name": "Tasarım Giyim",
+                        "link": "/kadin-giyim-x-g1-c82?fl=tasarim"
+                    },
+                    {
+                        "name": "Tasarım Ayakkabı",
+                        "link": "/kadin-ayakkabi-x-g1-c114?fl=tasarim"
+                    }
+                ]
+            },
+            {
+                "name": "Kozmetik",
+                "link": "/kozmetik-x-c89",
+                "subcategories": [
+                    {
+                        "name": "Parfüm",
+                        "link": "/parfum-x-c86"
+                    },
+                    {
+                        "name": "Göz Makyajı",
+                        "link": "/goz-makyaji-x-c1347"
+                    },
+                    {
+                        "name": "Cilt Bakım",
+                        "link": "/cilt-bakimi-x-c85"
+                    },
+                    {
+                        "name": "Saç Bakımı",
+                        "link": "/sac-bakimi-x-c87"
+                    },
+                    {
+                        "name": "Makyaj",
+                        "link": "/makyaj-x-c100"
+                    },
+                    {
+                        "name": "Ağız Bakım",
+                        "link": "/agiz-bakim-x-c101396"
+                    },
+                    {
+                        "name": "Cinsel Sağlık",
+                        "link": "/cinsel-saglik-urunleri-x-c101408"
+                    },
+                    {
+                        "name": "Vücut Bakım",
+                        "link": "/vucut-bakimi-x-c1204"
+                    },
+                    {
+                        "name": "Hijyenik Ped",
+                        "link": "/pamuk--ped-x-c101409"
+                    },
+                    {
+                        "name": "Duş Jeli & Kremleri",
+                        "link": "/dus-jeli-ve-kremleri-x-c101401"
+                    },
+                    {
+                        "name": "Epilasyon Ürünleri",
+                        "link": "/epilasyon-urunleri-x-c104060"
+                    },
+                    {
+                        "name": "Ruj",
+                        "link": "/ruj-x-c1156"
+                    },
+                    {
+                        "name": "Güneş Ürünleri",
+                        "link": "/gunes-urunleri-x-c1061"
+                    }
+                ]
+            },
+            {
+                "name": "Spor & Outdoor",
+                "link": "/kadin-spor-outdoor-x-g1-c104593",
+                "subcategories": [
+                    {
+                        "name": "Sweatshirt",
+                        "link": "/kadin-spor-sweatshirt-x-g1-c101456"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "link": "/kadin-spor-t-shirt-x-g1-c101459"
+                    },
+                    {
+                        "name": "Spor Sütyeni",
+                        "link": "/kadin-sporcu-sutyeni-x-g1-c1358"
+                    },
+                    {
+                        "name": "Tayt",
+                        "link": "/kadin-spor-tayt-x-g1-c101460"
+                    },
+                    {
+                        "name": "Eşofman",
+                        "link": "/kadin-esofman-x-g1-c1049"
+                    },
+                    {
+                        "name": "Koşu Ayakkabısı",
+                        "link": "/kadin-spor-ayakkabi-x-g1-c109"
+                    },
+                    {
+                        "name": "Spor Çantası",
+                        "link": "/spor-cantasi-x-c1174"
+                    },
+                    {
+                        "name": "Spor Ekipmanları",
+                        "link": "/spor-aletleri-x-c104192"
+                    },
+                    {
+                        "name": "Outdoor Ayakkabı",
+                        "link": "/kadin-outdoor-ayakkabi-x-g1-c1128"
+                    },
+                    {
+                        "name": "Kar Botu",
+                        "link": "/kadin-kar-botu-x-g1-c142587"
+                    },
+                    {
+                        "name": "Outdoor Ekipmanları",
+                        "link": "/outdoor-ekipmanlari-x-c104230"
+                    },
+                    {
+                        "name": "Sporcu Besinleri",
+                        "link": "/sporcu-besinleri-supplement-x-c105131"
+                    },
+                    {
+                        "name": "Sporcu Aksesuarları",
+                        "link": "/kadin-sporcu-aksesuarlari-x-g1-c104521"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ERKEK",
+        "link": "/butik/liste/erkek",
+        "categories": [
+            {
+                "name": "Giyim",
+                "link": "/erkek-giyim-x-g2-c82",
+                "subcategories": [
+                    {
+                        "name": "T-shirt",
+                        "link": "/erkek-t-shirt-x-g2-c73"
+                    },
+                    {
+                        "name": "Sweatshirt",
+                        "link": "/erkek-sweatshirt-x-g2-c1179"
+                    },
+                    {
+                        "name": "Kazak & Hırka",
+                        "link": "/erkek-kazak--hirka-x-g2-c101482"
+                    },
+                    {
+                        "name": "Gömlek",
+                        "link": "/erkek-gomlek-x-g2-c75"
+                    },
+                    {
+                        "name": "Eşofman",
+                        "link": "/erkek-esofman-x-g2-c1049"
+                    },
+                    {
+                        "name": "Pantolon",
+                        "link": "/erkek-pantolon-x-g2-c70"
+                    },
+                    {
+                        "name": "Mont",
+                        "link": "/erkek-mont-x-g2-c118"
+                    },
+                    {
+                        "name": "Kaban",
+                        "link": "/erkek-kaban-x-g2-c1075 "
+                    },
+                    {
+                        "name": "Ceket",
+                        "link": "/erkek-ceket-x-g2-c1030"
+                    },
+                    {
+                        "name": "Jean",
+                        "link": "/erkek-jean-x-g2-c120"
+                    },
+                    {
+                        "name": "Polo Yaka T-shirt",
+                        "link": "/erkek-polo-yaka-t-shirt-x-g2-c108775"
+                    },
+                    {
+                        "name": "Takım Elbise",
+                        "link": "/erkek-takim-elbise-x-g2-c78"
+                    },
+                    {
+                        "name": "Şort",
+                        "link": "/erkek-sort-x-g2-c119"
+                    }
+                ]
+            },
+            {
+                "name": "Ayakkabı",
+                "link": "/erkek-ayakkabi-x-g2-c114",
+                "subcategories": [
+                    {
+                        "name": "Spor Ayakkabı",
+                        "link": "/erkek-spor-ayakkabi-x-g2-c109"
+                    },
+                    {
+                        "name": "Günlük Ayakkabı",
+                        "link": "/erkek-gunluk-ayakkabi-x-g2-c1352"
+                    },
+                    {
+                        "name": "Bot",
+                        "link": "/erkek-bot-x-g2-c1025"
+                    },
+                    {
+                        "name": "Kar Botu",
+                        "link": "/erkek-kar-botu-x-g2-c142587"
+                    },
+                    {
+                        "name": "Sneaker",
+                        "link": "/erkek-sneaker-x-g2-c1172"
+                    },
+                    {
+                        "name": "Klasik",
+                        "link": "/erkek-klasik-ayakkabi-x-g2-c101421"
+                    },
+                    {
+                        "name": "Koşu & Antrenman",
+                        "link": "/erkek-kosu-ayakkabisi-x-g2-c101426"
+                    }
+                ]
+            },
+            {
+                "name": "Kişisel Bakım",
+                "link": "/erkek-kozmetik-x-g2-c89",
+                "subcategories": [
+                    {
+                        "name": "Parfüm",
+                        "link": "/erkek-parfum-x-g2-c86"
+                    },
+                    {
+                        "name": "Cinsel Sağlık",
+                        "link": "/cinsel-saglik-urunleri-x-c101408"
+                    },
+                    {
+                        "name": "Tıraş Sonrası Ürünler",
+                        "link": "/erkek-tiras-losyonlari-x-g2-c101406"
+                    },
+                    {
+                        "name": "Tıraş Bıçağı",
+                        "link": "/tiras-bicagi-x-c101404"
+                    }
+                ]
+            },
+            {
+                "name": "Saat & Aksesuar",
+                "link": "/erkek-aksesuar-x-g2-c27",
+                "subcategories": [
+                    {
+                        "name": "Saat",
+                        "link": "/erkek-saat-x-g2-c34"
+                    },
+                    {
+                        "name": "Güneş Gözlüğü",
+                        "link": "/erkek-gunes-gozlugu-x-g2-c105"
+                    },
+                    {
+                        "name": "Cüzdan",
+                        "link": "/erkek-cuzdan-x-g2-c1032"
+                    },
+                    {
+                        "name": "Kemer",
+                        "link": "/erkek-kemer-x-g2-c1093"
+                    },
+                    {
+                        "name": "Çanta",
+                        "link": "/erkek-canta-x-g2-c117"
+                    },
+                    {
+                        "name": "Atkı & Bere & Eldiven",
+                        "link": "/erkek-sapka--bere--eldiven-x-g2-c101499"
+                    },
+                    {
+                        "name": "Bileklik",
+                        "link": "/erkek-bileklik-x-g2-c101"
+                    }
+                ]
+            },
+            {
+                "name": "İç Giyim",
+                "link": "/erkek-ic-giyim-x-g2-c64",
+                "subcategories": [
+                    {
+                        "name": "Boxer",
+                        "link": "/erkek-boxer-x-g2-c61"
+                    },
+                    {
+                        "name": "Çorap",
+                        "link": "/erkek-corap-x-g2-c1038"
+                    },
+                    {
+                        "name": "Pijama",
+                        "link": "/erkek-pijama-x-g2-c1143"
+                    },
+                    {
+                        "name": "Atlet",
+                        "link": "/erkek-atlet-x-g2-c1004"
+                    }
+                ]
+            },
+            {
+                "name": "Spor & Outdoor",
+                "link": "/erkek-spor-outdoor-x-g2-c104593",
+                "subcategories": [
+                    {
+                        "name": "Eşofman",
+                        "link": "/erkek-esofman-x-g2-c1049"
+                    },
+                    {
+                        "name": "Spor Ayakkabı",
+                        "link": "/erkek-spor-ayakkabi-x-g2-c109"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "link": "/erkek-spor-t-shirt-x-g2-c101459"
+                    },
+                    {
+                        "name": "Sweatshirt",
+                        "link": "/erkek-spor-sweatshirt-x-g2-c101456"
+                    },
+                    {
+                        "name": "Forma",
+                        "link": "/forma-x-c1054"
+                    },
+                    {
+                        "name": "Spor Çorap",
+                        "link": "/erkek-spor-corap-x-g2-c109035"
+                    },
+                    {
+                        "name": "Outdoor Giyim",
+                        "link": "/erkek-outdoor-giyim-x-g2-c106069"
+                    },
+                    {
+                        "name": "Outdoor Ayakkabı",
+                        "link": "/erkek-outdoor-ayakkabi-x-g2-c1128"
+                    },
+                    {
+                        "name": "Outdoor Bot",
+                        "link": "/erkek-outdoor-bot-x-g2-c110474"
+                    },
+                    {
+                        "name": "Spor Ekipmanları",
+                        "link": "/spor-aletleri-x-c104192"
+                    },
+                    {
+                        "name": "Outdoor Ekipmanları",
+                        "link": "/outdoor-ekipmanlari-x-c104230"
+                    },
+                    {
+                        "name": "Sporcu Besinleri",
+                        "link": "/sporcu-besinleri-supplement-x-c105131"
+                    },
+                    {
+                        "name": "Sporcu Aksesuarları",
+                        "link": "/sporcu-aksesuarlari-x-c104521"
+                    }
+                ]
+            },
+            {
+                "name": "Elektronik",
+                "link": "/elektronik-x-c104024",
+                "subcategories": [
+                    {
+                        "name": "Tıraş Makinesi",
+                        "link": "/tiras-makinesi-x-c102377"
+                    },
+                    {
+                        "name": "Cep Telefonu",
+                        "link": "/cep-telefonu-x-c103498"
+                    },
+                    {
+                        "name": "Akıllı Saat",
+                        "link": "/akilli-saat-x-c1240"
+                    },
+                    {
+                        "name": "Akıllı Bileklik",
+                        "link": "/akilli-bileklik-x-c103111"
+                    },
+                    {
+                        "name": "Laptop",
+                        "link": "/laptop-x-c103108"
+                    },
+                    {
+                        "name": "Oyun & Konsollar",
+                        "link": "/oyun-ve-oyun-konsollari-x-c104044"
+                    },
+                    {
+                        "name": "Playstation 5",
+                        "link": "/ps5-y-s8249"
+                    },
+                    {
+                        "name": "E-pin ve Cüzdan Kodu",
+                        "link": "/e-pin-ve-cuzdan-kodu-x-c109059"
+                    }
+                ]
+            },
+            {
+                "name": "Lüks & Designer",
+                "link": "/erkek-x-g2?fl=luks",
+                "subcategories": [
+                    {
+                        "name": "Lüks Giyim",
+                        "link": "/erkek-giyim-x-g2-c82?fl=luks"
+                    },
+                    {
+                        "name": "Lüks Ayakkabı",
+                        "link": "/erkek-ayakkabi-x-g2-c114?fl=luks"
+                    },
+                    {
+                        "name": "Lüks Çanta",
+                        "link": "/erkek-canta-x-g2-c117?fl=luks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ÇOCUK",
+        "link": "/butik/liste/cocuk",
+        "categories": [
+            {
+                "name": "Bebek",
+                "link": "/bebek-giyim-x-c104158",
+                "subcategories": [
+                    {
+                        "name": "Bebek Takımları",
+                        "link": "/bebek-takimlari-x-c103727"
+                    },
+                    {
+                        "name": "Ayakkabı",
+                        "link": "/cocuk-ayakkabi-x-g3-c114?gag=2-1,1-1"
+                    },
+                    {
+                        "name": "Hastane Çıkışı",
+                        "link": "/hastane-cikisi-x-c104159"
+                    },
+                    {
+                        "name": "Yenidoğan Kıyafetleri",
+                        "link": "/yenidogan-bebek-kiyafetleri-y-s8230"
+                    },
+                    {
+                        "name": "Tulum & Salopet",
+                        "link": "/cocuk-tulum-salopet-x-g3-c104150?gag=2-1,1-1"
+                    },
+                    {
+                        "name": "Body & Zıbın",
+                        "link": "/bebek-body-zibin-x-c104566"
+                    },
+                    {
+                        "name": "T-shirt & Atlet",
+                        "link": "/cocuk-t-shirt-x-g3-c73?gag=2-1,1-1"
+                    },
+                    {
+                        "name": "Elbise",
+                        "link": "/cocuk-elbise-x-g3-c56?gag=2-1,1-1"
+                    },
+                    {
+                        "name": "Şort",
+                        "link": "/cocuk-sort-x-g3-c119?gag=2-1,1-1"
+                    },
+                    {
+                        "name": "Bebek Patiği",
+                        "link": "/bebek-patigi-y-s7272"
+                    },
+                    {
+                        "name": "Bebek Bezi",
+                        "link": "/bebek-bezi-x-c1363"
+                    },
+                    {
+                        "name": "Bebek Maması",
+                        "link": "/bebek-mamalari-x-c103753"
+                    },
+                    {
+                        "name": "Islak Mendil",
+                        "link": "/islak-mendil-x-c101411"
+                    }
+                ]
+            },
+            {
+                "name": "Kız Çocuk",
+                "link": "/cocuk-giyim-x-g3-c82?gag=1-2",
+                "subcategories": [
+                    {
+                        "name": "Elbise",
+                        "link": "/cocuk-elbise-x-g3-c56?gag=1-2"
+                    },
+                    {
+                        "name": "Sweatshirt",
+                        "link": "/cocuk-sweatshirt-x-g3-c1179?gag=1-2"
+                    },
+                    {
+                        "name": "Spor Ayakkabı",
+                        "link": "/cocuk-spor-ayakkabi-x-g3-c109?gag=1-2"
+                    },
+                    {
+                        "name": "Eşofman",
+                        "link": "/cocuk-esofman-x-g3-c1049?gag=1-2"
+                    },
+                    {
+                        "name": "İç Giyim & Pijama",
+                        "link": "/cocuk-ic-giyim-x-g3-c64?gag=1-2"
+                    },
+                    {
+                        "name": "T-shirt & Atlet",
+                        "link": "/cocuk-t-shirt-x-g3-c73?gag=1-2"
+                    },
+                    {
+                        "name": "Tayt",
+                        "link": "/cocuk-tayt-x-g3-c121?gag=1-2"
+                    },
+                    {
+                        "name": "Günlük Ayakkabı",
+                        "link": "/cocuk-gunluk-ayakkabi-x-g3-c1352?gag=1-2"
+                    },
+                    {
+                        "name": "Şort",
+                        "link": "/cocuk-sort-x-g3-c119?gag=1-2"
+                    },
+                    {
+                        "name": "Kız Çocuk Oyuncakları",
+                        "link": "/kiz-cocuk-oyuncaklari-y-s8001"
+                    },
+                    {
+                        "name": "Çocuk Oyun Evi",
+                        "link": "/cocuk-oyun-evi-y-s3854"
+                    },
+                    {
+                        "name": "Barbie Karavan",
+                        "link": "/barbie-karavan-y-s3584"
+                    },
+                    {
+                        "name": "Kız Çocuk Odası",
+                        "link": "/kiz-cocuk-odasi-y-s8000"
+                    }
+                ]
+            },
+            {
+                "name": "Erkek Çocuk",
+                "link": "/cocuk-giyim-x-g3-c82?gag=2-2",
+                "subcategories": [
+                    {
+                        "name": "Sweatshirt",
+                        "link": "/cocuk-sweatshirt-x-g3-c1179?gag=2-2"
+                    },
+                    {
+                        "name": "Spor Ayakkabı",
+                        "link": "/cocuk-spor-ayakkabi-x-g3-c109?gag=2-2"
+                    },
+                    {
+                        "name": "Eşofman",
+                        "link": "/cocuk-esofman-x-g3-c1049?gag=2-2"
+                    },
+                    {
+                        "name": "İç Giyim & Pijama",
+                        "link": "/cocuk-ic-giyim-x-g3-c64?gag=2-2"
+                    },
+                    {
+                        "name": "T-shirt & Atlet",
+                        "link": "/cocuk-t-shirt-x-g3-c73?gag=2-2"
+                    },
+                    {
+                        "name": "Günlük Ayakkabı",
+                        "link": "/cocuk-gunluk-ayakkabi-x-g3-c1352?gag=2-2"
+                    },
+                    {
+                        "name": "Okul Çantası",
+                        "link": "/cocuk-okul-cantasi-x-g3-c104204?gag=2-2"
+                    },
+                    {
+                        "name": "Şort",
+                        "link": "/cocuk-sort-x-g3-c119?gag=2-2"
+                    },
+                    {
+                        "name": "Gömlek",
+                        "link": "/cocuk-gomlek-x-g3-c75?gag=2-2"
+                    },
+                    {
+                        "name": "Çocuk Motoru",
+                        "link": "/cocuk-motoru-y-s3852"
+                    },
+                    {
+                        "name": "Doktor Oyuncakları",
+                        "link": "/doktor-oyuncaklari-y-s3948"
+                    },
+                    {
+                        "name": "Çocuk Polis Kıyafeti",
+                        "link": "/cocuk-polis-kiyafeti-y-s3855"
+                    },
+                    {
+                        "name": "Kumandalı Araba",
+                        "link": "/uzaktan-kumandali-araba-y-s4820"
+                    }
+                ]
+            },
+            {
+                "name": "Bebek Bakım",
+                "link": "/annebebek-bakim-x-c101414",
+                "subcategories": [
+                    {
+                        "name": "Banyo & Tuvalet",
+                        "link": "/bebek-banyo-tuvalet-x-c103776"
+                    },
+                    {
+                        "name": "Bebek Şampuanı",
+                        "link": "/bebek-sampuani-x-c105562"
+                    },
+                    {
+                        "name": "Krem & Yağlar",
+                        "link": "/bebek-krem-yaglar-x-c103769"
+                    },
+                    {
+                        "name": "Bebek Çantası",
+                        "link": "/bebek-cantasi-x-c1014"
+                    }
+                ]
+            },
+            {
+                "name": "Oyuncak",
+                "link": "/oyuncak-x-c90",
+                "subcategories": [
+                    {
+                        "name": "Eğitici Oyuncaklar",
+                        "link": "/egitici-ve-ahsap-oyuncaklar-x-c103700"
+                    },
+                    {
+                        "name": "Oyuncak Araba",
+                        "link": "/oyuncak-araba-y-s4726"
+                    },
+                    {
+                        "name": "Oyuncak Bebek",
+                        "link": "/oyuncak-bebek-x-c103711"
+                    },
+                    {
+                        "name": "Bebek & Okul Öncesi",
+                        "link": "/bebek-ve-okul-oncesi-oyuncaklar-x-c103692"
+                    },
+                    {
+                        "name": "Kumandalı Oyuncak",
+                        "link": "/kumandali-oyuncaklar-x-c103819"
+                    },
+                    {
+                        "name": "Robot Oyuncak",
+                        "link": "/robot-oyuncak-y-s4763"
+                    },
+                    {
+                        "name": "Oyun Hamuru",
+                        "link": "/oyun-hamurlari-x-c103701"
+                    }
+                ]
+            },
+            {
+                "name": "Taşıma & Güvenlik",
+                "link": "/cocuk-gerecleri-x-c1355",
+                "subcategories": [
+                    {
+                        "name": "Bebek Arabası & Puset",
+                        "link": "/bebek-arabasi-puset-x-c103735"
+                    },
+                    {
+                        "name": "Park Yatak",
+                        "link": "/park-yatak-ve-oyun-parki-x-c103710"
+                    },
+                    {
+                        "name": "Ana Kucağı",
+                        "link": "/ana-kucagi-x-c103731"
+                    },
+                    {
+                        "name": "Portbebe & Kanguru",
+                        "link": "/portbebe-kanguru-sling-x-c103740"
+                    },
+                    {
+                        "name": "Yürüteç",
+                        "link": "/yurutec-x-c103741"
+                    },
+                    {
+                        "name": "Oto Koltuğu",
+                        "link": "/oto-koltugu-x-c103738"
+                    }
+                ]
+            },
+            {
+                "name": "Beslenme Emzirme",
+                "link": "/beslenme-emzirme-x-c103752",
+                "subcategories": [
+                    {
+                        "name": "Biberon & Emzik",
+                        "link": "/biberon-emzik-x-c103755"
+                    },
+                    {
+                        "name": "Göğüs Pompası",
+                        "link": "/gogus-pompalari-x-c103760"
+                    },
+                    {
+                        "name": "Mama Sandalyesi",
+                        "link": "/mama-sandalyesi-x-c1111"
+                    },
+                    {
+                        "name": "Mama Önlüğü",
+                        "link": "/mama-onlugu-x-c103765"
+                    },
+                    {
+                        "name": "Alıştırma Bardağı",
+                        "link": "/alistirma-bardaklari-x-c103756"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "EV & YAŞAM",
+        "link": "/butik/liste/ev--yasam",
+        "categories": [
+            {
+                "name": "Sofra & Mutfak",
+                "link": "/sofra--mutfak-x-c1354",
+                "subcategories": [
+                    {
+                        "name": "Yemek Takımı",
+                        "link": "/yemek-takimi-x-c1208"
+                    },
+                    {
+                        "name": "Çatal Kaşık Bıçak Seti",
+                        "link": "/catal-kasik-bicak-x-c108824"
+                    },
+                    {
+                        "name": "Baharat Takımı",
+                        "link": "/baharat-takimi-x-c1009"
+                    },
+                    {
+                        "name": "Fincan & Kupa",
+                        "link": "/fincan--kupa-x-c101505"
+                    },
+                    {
+                        "name": "Fırın & Kek Kalıbı",
+                        "link": "/firin--kek-kaliplari-x-c101504"
+                    },
+                    {
+                        "name": "Çaydanlık",
+                        "link": "/caydanlik-x-c1035"
+                    },
+                    {
+                        "name": "Tencere Seti",
+                        "link": "/tencere-x-c1191"
+                    }
+                ]
+            },
+            {
+                "name": "Banyo",
+                "link": "/banyo-x-c104166",
+                "subcategories": [
+                    {
+                        "name": "Havlu & Havlu Seti",
+                        "link": "/havlu-x-c1064"
+                    },
+                    {
+                        "name": "Bornoz",
+                        "link": "/bornoz-x-c1024"
+                    },
+                    {
+                        "name": "Banyo Seti",
+                        "link": "/banyo-seti-x-c104210"
+                    },
+                    {
+                        "name": "Banyo Paspası",
+                        "link": "/banyo-paspasi-x-c109003"
+                    }
+                ]
+            },
+            {
+                "name": "Ev Tekstili",
+                "link": "/ev-tekstili-x-c94",
+                "subcategories": [
+                    {
+                        "name": "Yatak Odası",
+                        "link": "/yatak-odasi-tekstili-x-c104442"
+                    },
+                    {
+                        "name": "Halı & Kilim & Paspas",
+                        "link": "/hali--kilim--paspas-x-c101514"
+                    },
+                    {
+                        "name": "Perde",
+                        "link": "/perde-x-c1141"
+                    },
+                    {
+                        "name": "Nevresim Takımı",
+                        "link": "/nevresim-takimi-x-c1123"
+                    },
+                    {
+                        "name": "Yastık",
+                        "link": "/yastik-x-c1206"
+                    },
+                    {
+                        "name": "Kırlent ve Kılıfı",
+                        "link": "/kirlent-ve-kirlent-kilifi-x-c104214"
+                    }
+                ]
+            },
+            {
+                "name": "Ev Dekorasyon",
+                "link": "/ev-dekorasyon-x-c95",
+                "subcategories": [
+                    {
+                        "name": "Dekoratif Aksesuar",
+                        "link": "/dekoratif-aksesuarlar-x-c101521"
+                    },
+                    {
+                        "name": "Tablo",
+                        "link": "/tablo-x-c1185"
+                    },
+                    {
+                        "name": "Duvar Saati",
+                        "link": "/duvar-saati-x-c35"
+                    },
+                    {
+                        "name": "Ayna",
+                        "link": "/ayna-x-c107995"
+                    },
+                    {
+                        "name": "Sanat",
+                        "link": "/magaza/artoloji-m-287423?sst=0"
+                    }
+                ]
+            },
+            {
+                "name": "Aydınlatma",
+                "link": "/aydinlatma-x-c1365",
+                "subcategories": [
+                    {
+                        "name": "Avize",
+                        "link": "/avize-x-c1366"
+                    },
+                    {
+                        "name": "Lambader",
+                        "link": "/lambader-x-c103676"
+                    },
+                    {
+                        "name": "Abajur",
+                        "link": "/abajur-x-c101512"
+                    }
+                ]
+            },
+            {
+                "name": "Mobilya",
+                "link": "/mobilya-x-c1119",
+                "subcategories": [
+                    {
+                        "name": "Salon & Oturma Odası",
+                        "link": "/salon-oturma-odasi-mobilya-x-c104489"
+                    },
+                    {
+                        "name": "Yatak Odası",
+                        "link": "/yatak-odasi-mobilya-x-c104448"
+                    },
+                    {
+                        "name": "Çalışma Odası",
+                        "link": "/calisma-odasi-x-c104201"
+                    }
+                ]
+            },
+            {
+                "name": "Ev Gereçleri",
+                "link": "/ev-gerecleri-x-c104216",
+                "subcategories": [
+                    {
+                        "name": "Düzenleyici",
+                        "link": "/duzenleyici-x-c104222"
+                    },
+                    {
+                        "name": "Çamaşırlık",
+                        "link": "/camasirlik-x-c104218"
+                    },
+                    {
+                        "name": "Temizlik Gereçleri",
+                        "link": "/pratik-temizlik-gerecleri-x-c104590"
+                    },
+                    {
+                        "name": "Sepet & Hurç",
+                        "link": "/saklama-kutusu-sepet-hurc-x-c104221"
+                    }
+                ]
+            },
+            {
+                "name": "Hobi",
+                "link": "/hobi-x-c97",
+                "subcategories": [
+                    {
+                        "name": "Kitap",
+                        "link": "/kitap-x-c91"
+                    },
+                    {
+                        "name": "Puzzle",
+                        "link": "/puzzle-x-c1155"
+                    },
+                    {
+                        "name": "Boya & Resim",
+                        "link": "/boya-seti-x-c106339"
+                    },
+                    {
+                        "name": "Kutu Oyunları",
+                        "link": "/kutu-oyunlari-x-c103818"
+                    }
+                ]
+            },
+            {
+                "name": "Kırtasiye & Ofis",
+                "link": "/kirtasiye-ofis-malzemeleri-x-c104125",
+                "subcategories": [
+                    {
+                        "name": "Defter",
+                        "link": "/defter-x-c1233"
+                    },
+                    {
+                        "name": "Kalem",
+                        "link": "/kalem-x-c1080"
+                    }
+                ]
+            },
+            {
+                "name": "Spor & Outdoor",
+                "link": "/spor-aletleri-x-c104192",
+                "subcategories": [
+                    {
+                        "name": "Koşu Bandı",
+                        "link": "/kosu-bandi-x-c104277"
+                    },
+                    {
+                        "name": "Dumbell & Ağırlık",
+                        "link": "/dambillar-agirlik-plakalari-x-c104287"
+                    },
+                    {
+                        "name": "Pilates & Yoga",
+                        "link": "/pilates-x-c1146"
+                    },
+                    {
+                        "name": "Eliptik Bisiklet",
+                        "link": "/eliptik-bisiklet-y-s4014"
+                    }
+                ]
+            },
+            {
+                "name": "Otomobil & Motosiklet",
+                "link": "/otomobil-ve-motosiklet-x-c105777",
+                "subcategories": [
+                    {
+                        "name": "Oto Aksesuar",
+                        "link": "/oto-aksesuarlari-x-c103483"
+                    },
+                    {
+                        "name": "Oto Paspası",
+                        "link": "/oto-paspas-x-c104103"
+                    },
+                    {
+                        "name": "Oto Lastik",
+                        "link": "/lastik-x-c103902"
+                    },
+                    {
+                        "name": "Kask",
+                        "link": "/kasklar-x-c103849"
+                    }
+                ]
+            },
+            {
+                "name": "Yapı Market",
+                "link": "/yapi-market-x-c103720",
+                "subcategories": [
+                    {
+                        "name": "Banyo Yapı Malzemeleri",
+                        "link": "/banyo-yapi-malzemeleri-x-c105718"
+                    },
+                    {
+                        "name": "Elektrikli El Aleti",
+                        "link": "/elektrikli-el-aletleri-x-c103723"
+                    },
+                    {
+                        "name": "Hırdavat Ürünleri",
+                        "link": "/hirdavat-urunleri-x-c103725"
+                    },
+                    {
+                        "name": "Boya",
+                        "link": "/boya-x-c103721"
+                    },
+                    {
+                        "name": "Matkap",
+                        "link": "/matkap-x-c105661"
+                    },
+                    {
+                        "name": "Ampul",
+                        "link": "/ampul-x-c103675"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SÜPERMARKET",
+        "link": "/butik/liste/supermarket",
+        "categories": [
+            {
+                "name": "Ev & Temizlik",
+                "link": "/ev-bakim-ve-temizlik-x-c105478",
+                "subcategories": [
+                    {
+                        "name": "Çamaşır Yıkama",
+                        "link": "/camasir-yikama-urunleri-x-c103809"
+                    },
+                    {
+                        "name": "Bulaşık Yıkama",
+                        "link": "/bulasik-yikama-urunleri-x-c103801"
+                    },
+                    {
+                        "name": "Ev Temizlik",
+                        "link": "/ev-temizlik-urunleri-x-c101412"
+                    },
+                    {
+                        "name": "Paspas & Mop",
+                        "link": "/mop-ve-paspas-x-c109302"
+                    },
+                    {
+                        "name": "Kağıt Ürünleri",
+                        "link": "/kagit-urunleri-x-c104011"
+                    }
+                ]
+            },
+            {
+                "name": "Gıda",
+                "link": "/kuru-gida-urunleri-x-c103970",
+                "subcategories": [
+                    {
+                        "name": "Çay",
+                        "link": "/caylar-x-c104000"
+                    },
+                    {
+                        "name": "Kahve",
+                        "link": "/kahve-x-c104004"
+                    },
+                    {
+                        "name": "Earl Grey",
+                        "link": "/earl-grey-y-s3989"
+                    },
+                    {
+                        "name": "Kahvaltılık",
+                        "link": "/kahvaltilik-urunler-x-c103961"
+                    },
+                    {
+                        "name": "Organik Ürünler",
+                        "link": "/organik-urunler-x-c1127"
+                    },
+                    {
+                        "name": "Diyabetik Ürünler",
+                        "link": "/diyabetik-urun-x-c105472"
+                    }
+                ]
+            },
+            {
+                "name": "Kişisel Bakım",
+                "link": "/kozmetik-x-c89",
+                "subcategories": [
+                    {
+                        "name": "Saç Bakımı",
+                        "link": "/sac-bakimi-x-c87"
+                    },
+                    {
+                        "name": "Ağda & Epilasyon",
+                        "link": "/tiras-agda-epilasyon-x-c105782"
+                    },
+                    {
+                        "name": "Banyo & Duş",
+                        "link": "/banyo--dus-urunleri-x-c103107"
+                    },
+                    {
+                        "name": "Ağız Bakım",
+                        "link": "/agiz-bakim-x-c101396"
+                    },
+                    {
+                        "name": "Cilt Bakımı",
+                        "link": "/cilt-bakimi-x-c85"
+                    },
+                    {
+                        "name": "Vücut Bakımı",
+                        "link": "/vucut-bakimi-x-c1204"
+                    }
+                ]
+            },
+            {
+                "name": "Sağlık & Spor",
+                "link": "/saglik-x-c105548",
+                "subcategories": [
+                    {
+                        "name": "Cinsel Sağlık",
+                        "link": "/cinsel-saglik-urunleri-x-c101408"
+                    },
+                    {
+                        "name": "Hijyenik Ped",
+                        "link": "/pamuk--ped-x-c101409"
+                    },
+                    {
+                        "name": "Sporcu Besinleri",
+                        "link": "/sporcu-besinleri-supplement-x-c105131"
+                    },
+                    {
+                        "name": "Vitamin & Ek Gıda",
+                        "link": "/gida-takviyeleri-vitaminler-x-c105085"
+                    },
+                    {
+                        "name": "Hasta Bezi & Temizlik",
+                        "link": "/hasta-bezi-ve-temizlik-x-c105547"
+                    }
+                ]
+            },
+            {
+                "name": "Petshop",
+                "link": "/pet-shop-urunleri-x-c1142",
+                "subcategories": [
+                    {
+                        "name": "Kedi Maması",
+                        "link": "/kedi-mamasi-x-c103588"
+                    },
+                    {
+                        "name": "Kedi Kumu",
+                        "link": "/kedi-kumu-x-c103584"
+                    },
+                    {
+                        "name": "Köpek Maması",
+                        "link": "/kopek-mamasi-x-c103620"
+                    },
+                    {
+                        "name": "Köpek Tasması",
+                        "link": "/kopek-tasmasi-x-c103631"
+                    },
+                    {
+                        "name": "Kuş Ürünleri",
+                        "link": "/kus-urunleri-x-c103635"
+                    },
+                    {
+                        "name": "Akvaryum Ürünleri",
+                        "link": "/akvaryum-urunleri-x-c103564"
+                    }
+                ]
+            },
+            {
+                "name": "Bebek Bakım",
+                "link": "/annebebek-bakim-x-c101414",
+                "subcategories": [
+                    {
+                        "name": "Süt Arttırıcı İçecekler",
+                        "link": "/sut-arttirici-icecekler-x-c103763"
+                    },
+                    {
+                        "name": "Bebek Ek Besin",
+                        "link": "/bebek-ek-besin-x-c105500"
+                    },
+                    {
+                        "name": "Bebek Bezi",
+                        "link": "/bebek-bezi-x-c1363"
+                    },
+                    {
+                        "name": "Islak Mendil & Havlu",
+                        "link": "/islak-mendil-x-c101411"
+                    },
+                    {
+                        "name": "Bebek Kozmetik",
+                        "link": "/bebek-kozmetik-x-c105559"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "KOZMETİK",
+        "link": "/butik/liste/kozmetik",
+        "categories": [
+            {
+                "name": "Makyaj",
+                "link": "/makyaj-x-c100",
+                "subcategories": [
+                    {
+                        "name": "Göz Makyajı",
+                        "link": "/goz-makyaji-x-c1347"
+                    },
+                    {
+                        "name": "Ten Makyajı",
+                        "link": "/ten-makyaji-x-c1348"
+                    },
+                    {
+                        "name": "Dudak Makyajı",
+                        "link": "/dudak-makyaji-x-c1346"
+                    },
+                    {
+                        "name": "Makyaj Seti",
+                        "link": "/makyaj-seti-x-c104019"
+                    },
+                    {
+                        "name": "Oje & Aseton",
+                        "link": "/oje-x-c1124"
+                    },
+                    {
+                        "name": "Fondöten",
+                        "link": "/fondoten-x-c1053"
+                    }
+                ]
+            },
+            {
+                "name": "Parfüm & Deodorant",
+                "link": "/parfum-ve-deodorant-x-c103717",
+                "subcategories": [
+                    {
+                        "name": "Parfüm",
+                        "link": "/parfum-x-c86"
+                    },
+                    {
+                        "name": "Parfüm Setleri",
+                        "link": "/parfum-seti-x-c101385"
+                    },
+                    {
+                        "name": "Deodorant & Roll-on",
+                        "link": "/deodorant-x-c1040"
+                    },
+                    {
+                        "name": "Vücut Spreyi",
+                        "link": "/vucut-spreyi-x-c101386"
+                    }
+                ]
+            },
+            {
+                "name": "Cilt Bakımı",
+                "link": "/cilt-bakimi-x-c85",
+                "subcategories": [
+                    {
+                        "name": "Nemlendirme",
+                        "link": "/nemlendirici-krem-x-c1122"
+                    },
+                    {
+                        "name": "Yüz Temizleme",
+                        "link": "/yuz-temizleme-x-c1213"
+                    },
+                    {
+                        "name": "Maske & Peeling",
+                        "link": "/maske--peeling-x-c101379"
+                    },
+                    {
+                        "name": "Göz Bakımı",
+                        "link": "/goz-bakimi-x-c101380"
+                    },
+                    {
+                        "name": "Güneş Kremi",
+                        "link": "/gunes-urunleri-x-c1061"
+                    },
+                    {
+                        "name": "Cilt Serumu",
+                        "link": "/cilt-serumu-x-c101381"
+                    },
+                    {
+                        "name": "Yaşlanma Karşıtı",
+                        "link": "/yaslanma-ve-kirisiklik-karsiti-x-c101382"
+                    }
+                ]
+            },
+            {
+                "name": "Saç Bakımı",
+                "link": "/sac-bakimi-x-c87",
+                "subcategories": [
+                    {
+                        "name": "Şampuan",
+                        "link": "/sampuan-x-c1180"
+                    },
+                    {
+                        "name": "Saç Şekillendirici",
+                        "link": "/sac-sekillendirici-x-c101390"
+                    },
+                    {
+                        "name": "Saç Serumu & Maskesi",
+                        "link": "/sac-maskesi-x-c1162"
+                    },
+                    {
+                        "name": "Saç Boyası",
+                        "link": "/sac-boyasi-x-c1159"
+                    }
+                ]
+            },
+            {
+                "name": "Epilasyon & Tıraş",
+                "link": "/tiras-agda-epilasyon-x-c105782",
+                "subcategories": [
+                    {
+                        "name": "Tüy Dökücü",
+                        "link": "/epilasyon-urunleri-x-c104060"
+                    },
+                    {
+                        "name": "Ağda",
+                        "link": "/agda-x-c106112"
+                    },
+                    {
+                        "name": "Tıraş Bıçağı",
+                        "link": "/tiras-bicagi-x-c101404"
+                    },
+                    {
+                        "name": "Epilatör",
+                        "link": "/epilasyon-aleti-x-c104074"
+                    },
+                    {
+                        "name": "Tıraş Köpüğü",
+                        "link": "/tiras-kopuk-ve-jelleri-x-c101405"
+                    }
+                ]
+            },
+            {
+                "name": "Genel Bakım",
+                "link": "/kozmetik-x-c89",
+                "subcategories": [
+                    {
+                        "name": "Cinsel Sağlık",
+                        "link": "/cinsel-saglik-urunleri-x-c101408"
+                    },
+                    {
+                        "name": "Hijyenik Ped",
+                        "link": "/pamuk--ped-x-c101409"
+                    },
+                    {
+                        "name": "Vücut Bakımı",
+                        "link": "/vucut-bakimi-x-c1204"
+                    },
+                    {
+                        "name": "Ayak Bakımı",
+                        "link": "/ayak-bakimi-x-c1361"
+                    },
+                    {
+                        "name": "Duş Jeli ve Kremi",
+                        "link": "/dus-jeli-ve-kremleri-x-c101401"
+                    },
+                    {
+                        "name": "Bakım Yağları",
+                        "link": "/bakim-yaglari-x-c104013"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AYAKKABI & ÇANTA",
+        "link": "/butik/liste/ayakkabi--canta",
+        "categories": [
+            {
+                "name": "Kadın Ayakkabı",
+                "link": "/kadin-ayakkabi-x-g1-c114",
+                "subcategories": [
+                    {
+                        "name": "Spor Ayakkabı",
+                        "link": "/kadin-spor-ayakkabi-x-g1-c109"
+                    },
+                    {
+                        "name": "Topuklu Ayakkabı",
+                        "link": "/kadin-topuklu-ayakkabi-x-g1-c107"
+                    },
+                    {
+                        "name": "Günlük Ayakkabı",
+                        "link": "/kadin-gunluk-ayakkabi-x-g1-c1352"
+                    },
+                    {
+                        "name": "Bot & Bootie",
+                        "link": "/kadin-bot-x-g1-c1025"
+                    },
+                    {
+                        "name": "Sandalet",
+                        "link": "/kadin-sandalet-x-g1-c111"
+                    },
+                    {
+                        "name": "Terlik",
+                        "link": "/kadin-terlik-x-g1-c110"
+                    }
+                ]
+            },
+            {
+                "name": "Kadın Çanta",
+                "link": "/kadin-canta-x-g1-c117",
+                "subcategories": [
+                    {
+                        "name": "Omuz Çantası",
+                        "link": "/kadin-omuz-cantasi-x-g1-c101465"
+                    },
+                    {
+                        "name": "Sırt Çantası",
+                        "link": "/kadin-sirt-cantasi-x-g1-c115"
+                    },
+                    {
+                        "name": "Cüzdan",
+                        "link": "/kadin-cuzdan-x-g1-c1032"
+                    },
+                    {
+                        "name": "Spor Çantası",
+                        "link": "/kadin-spor-cantasi-x-g1-c1174"
+                    },
+                    {
+                        "name": "Bel Çantası",
+                        "link": "/kadin-bel-cantasi-x-g1-c104144"
+                    }
+                ]
+            },
+            {
+                "name": "Erkek Ayakkabı",
+                "link": "/erkek-ayakkabi-x-g2-c114",
+                "subcategories": [
+                    {
+                        "name": "Spor Ayakkabı",
+                        "link": "/erkek-spor-ayakkabi-x-g2-c109"
+                    },
+                    {
+                        "name": "Günlük Ayakkabı",
+                        "link": "/erkek-gunluk-ayakkabi-x-g2-c1352"
+                    },
+                    {
+                        "name": "Klasik Ayakkabı",
+                        "link": "/erkek-klasik-ayakkabi-x-g2-c101421"
+                    },
+                    {
+                        "name": "Bot",
+                        "link": "/erkek-bot-x-g2-c1025"
+                    },
+                    {
+                        "name": "Sneaker",
+                        "link": "/erkek-sneaker-x-g2-c1172"
+                    },
+                    {
+                        "name": "Koşu Ayakkabısı",
+                        "link": "/erkek-kosu-ayakkabisi-x-g2-c101426"
+                    },
+                    {
+                        "name": "Krampon",
+                        "link": "/futbol-ayakkabisi-x-c1057"
+                    }
+                ]
+            },
+            {
+                "name": "Erkek Çanta",
+                "link": "/erkek-canta-x-g2-c117",
+                "subcategories": [
+                    {
+                        "name": "Sırt Çantası",
+                        "link": "/erkek-sirt-cantasi-x-g2-c115"
+                    },
+                    {
+                        "name": "Postacı Çantası",
+                        "link": "/erkek-postaci-canta-x-g2-c1152"
+                    },
+                    {
+                        "name": "Cüzdan & Kartlık",
+                        "link": "/erkek-cuzdan--kartlik-x-g2-c1353"
+                    },
+                    {
+                        "name": "Spor Çantası",
+                        "link": "/erkek-spor-cantasi-x-g2-c1174"
+                    }
+                ]
+            },
+            {
+                "name": "Çocuk Ayakkabı",
+                "link": "/cocuk-ayakkabi-x-g3-c114",
+                "subcategories": [
+                    {
+                        "name": "Spor Ayakkabı",
+                        "link": "/cocuk-spor-ayakkabi-x-g3-c109"
+                    },
+                    {
+                        "name": "Günlük Ayakkabı",
+                        "link": "/cocuk-gunluk-ayakkabi-x-g3-c1352"
+                    },
+                    {
+                        "name": "Babet",
+                        "link": "/cocuk-babet-x-g3-c113"
+                    }
+                ]
+            },
+            {
+                "name": "Çocuk Çanta",
+                "link": "/cocuk-canta-x-g3-c117",
+                "subcategories": [
+                    {
+                        "name": "Sırt Çantası",
+                        "link": "/cocuk-sirt-cantasi-x-g3-c115"
+                    },
+                    {
+                        "name": "Okul Çantası",
+                        "link": "/cocuk-okul-cantasi-x-g3-c104204"
+                    }
+                ]
+            },
+            {
+                "name": "Lüks & Designer",
+                "link": "/tum--urunler?q=Ayakkabı%20Çanta&fl=luks",
+                "subcategories": [
+                    {
+                        "name": "Lüks Çanta",
+                        "link": "/canta-x-c117?fl=luks"
+                    },
+                    {
+                        "name": "Lüks Ayakkabı",
+                        "link": "/ayakkabi-x-c114?fl=luks"
+                    },
+                    {
+                        "name": "Tasarım Çanta",
+                        "link": "/canta-x-c117?fl=tasarim"
+                    },
+                    {
+                        "name": "Tasarım Ayakkabı",
+                        "link": "/ayakkabi-x-c114?fl=tasarim"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SAAT & AKSESUAR",
+        "link": "/butik/liste/saat--aksesuar",
+        "categories": [
+            {
+                "name": "Kadın",
+                "link": "/kadin-aksesuar-x-g1-c27",
+                "subcategories": [
+                    {
+                        "name": "Saat",
+                        "link": "/kadin-saat-x-g1-c34"
+                    },
+                    {
+                        "name": "Güneş Gözlüğü",
+                        "link": "/kadin-gunes-gozlugu-x-g1-c105"
+                    },
+                    {
+                        "name": "Takı",
+                        "link": "/kadin-taki-x-g1-c28"
+                    },
+                    {
+                        "name": "Cüzdan",
+                        "link": "/kadin-cuzdan-x-g1-c1032"
+                    },
+                    {
+                        "name": "Kemer",
+                        "link": "/kadin-kemer-x-g1-c1093"
+                    },
+                    {
+                        "name": "Şapka",
+                        "link": "/kadin-sapka-x-g1-c1181"
+                    },
+                    {
+                        "name": "Atkı Bere Eldiven",
+                        "link": "/kadin-sapka--bere--eldiven-x-g1-c101499"
+                    },
+                    {
+                        "name": "Şal & Fular",
+                        "link": "/kadin-sal-ve-fular-x-g1-c101433"
+                    },
+                    {
+                        "name": "Şemsiye",
+                        "link": "/semsiye-x-c1183"
+                    },
+                    {
+                        "name": "Gözlük Kabı",
+                        "link": "/gozluk-kabi-x-c108709"
+                    },
+                    {
+                        "name": "Saç Aksesuarı",
+                        "link": "/kadin-sac-aksesuarlari-x-g1-c101434"
+                    },
+                    {
+                        "name": "Hasır Bilezik",
+                        "link": "/hasir-bilezik-y-s4197"
+                    },
+                    {
+                        "name": "Burma Bilezik",
+                        "link": "/burma-bilezik-y-s3751"
+                    },
+                    {
+                        "name": "22 Ayar Bilezik",
+                        "link": "/22-ayar-bilezik-y-s3301"
+                    }
+                ]
+            },
+            {
+                "name": "Takı & Mücevher",
+                "link": "/taki-x-c28",
+                "subcategories": [
+                    {
+                        "name": "Kolye",
+                        "link": "/kolye-x-c102"
+                    },
+                    {
+                        "name": "Küpe",
+                        "link": "/kupe-x-c1106"
+                    },
+                    {
+                        "name": "Bileklik",
+                        "link": "/bileklik-x-c101"
+                    },
+                    {
+                        "name": "Halhal",
+                        "link": "/halhal-x-c1062"
+                    },
+                    {
+                        "name": "Yüzük",
+                        "link": "/yuzuk-x-c103"
+                    },
+                    {
+                        "name": "Altın",
+                        "link": "/altin-x-c103532"
+                    },
+                    {
+                        "name": "Piercing",
+                        "link": "/piercing-x-c109007"
+                    }
+                ]
+            },
+            {
+                "name": "Elektronik Aksesuarlar",
+                "link": "/elektronik-x-c104024",
+                "subcategories": [
+                    {
+                        "name": "Telefon Kılıfı",
+                        "link": "/kapak-ve-kilif-x-c104026"
+                    },
+                    {
+                        "name": "Akıllı Saat",
+                        "link": "/akilli-saat-x-c1240"
+                    },
+                    {
+                        "name": "Akıllı Bileklik",
+                        "link": "/akilli-bileklik-x-c103111"
+                    }
+                ]
+            },
+            {
+                "name": "Erkek",
+                "link": "/erkek-aksesuar-x-g2-c27",
+                "subcategories": [
+                    {
+                        "name": "Saat",
+                        "link": "/erkek-saat-x-g2-c34"
+                    },
+                    {
+                        "name": "Güneş Gözlüğü",
+                        "link": "/erkek-gunes-gozlugu-x-g2-c105"
+                    },
+                    {
+                        "name": "Cüzdan & Kartlık",
+                        "link": "/erkek-cuzdan--kartlik-x-g2-c1353"
+                    },
+                    {
+                        "name": "Kemer",
+                        "link": "/erkek-kemer-x-g2-c1093"
+                    },
+                    {
+                        "name": "Bileklik",
+                        "link": "/erkek-bileklik-x-g2-c101"
+                    },
+                    {
+                        "name": "Şemsiye",
+                        "link": "/erkek-semsiye-x-g2-c1183"
+                    },
+                    {
+                        "name": "Kravat",
+                        "link": "/erkek-kravat-x-g2-c1101"
+                    },
+                    {
+                        "name": "Valiz",
+                        "link": "/valiz-x-c1202"
+                    }
+                ]
+            },
+            {
+                "name": "Çocuk Aksesuar",
+                "link": "/cocuk-aksesuar-x-g3-c27",
+                "subcategories": [
+                    {
+                        "name": "Saat",
+                        "link": "/cocuk-saat-x-g3-c34"
+                    },
+                    {
+                        "name": "Güneş Gözlüğü",
+                        "link": "/cocuk-gunes-gozlugu-x-g3-c105"
+                    },
+                    {
+                        "name": "Şapka",
+                        "link": "/cocuk-sapka-x-g3-c1181"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ELEKTRONİK",
+        "link": "/butik/liste/elektronik",
+        "categories": [
+            {
+                "name": "Küçük Ev Aletleri",
+                "link": "/kucuk-ev-aletleri-x-c1104",
+                "subcategories": [
+                    {
+                        "name": "Süpürge",
+                        "link": "/elektrikli-supurge-x-c1047"
+                    },
+                    {
+                        "name": "Kahve Makinesi",
+                        "link": "/kahve-makinesi-x-c1079"
+                    },
+                    {
+                        "name": "Çay Makinesi",
+                        "link": "/cay-makinesi-x-c108890"
+                    },
+                    {
+                        "name": "Blender",
+                        "link": "/blender-ve-blender-seti-x-c103677"
+                    },
+                    {
+                        "name": "Tost Makinesi",
+                        "link": "/tost-makinesi-x-c1197"
+                    },
+                    {
+                        "name": "Waffle Makinesi",
+                        "link": "/waffle-makinesi-y-s4829"
+                    },
+                    {
+                        "name": "Ütü",
+                        "link": "/utu-x-c1201"
+                    },
+                    {
+                        "name": "Su Isıtıcısı & Kettle",
+                        "link": "/su-isitici-x-c101508"
+                    },
+                    {
+                        "name": "Robot Süpürge",
+                        "link": "/robot-supurge-x-c109453"
+                    }
+                ]
+            },
+            {
+                "name": "Giyilebilir Teknoloji",
+                "link": "/teknoloji-urunleri-x-c1189",
+                "subcategories": [
+                    {
+                        "name": "Akıllı Saat",
+                        "link": "/akilli-saat-x-c1240"
+                    },
+                    {
+                        "name": "Akıllı Bileklik",
+                        "link": "/akilli-bileklik-x-c103111"
+                    }
+                ]
+            },
+            {
+                "name": "Telefon",
+                "link": "/telefon-x-c104025",
+                "subcategories": [
+                    {
+                        "name": "Cep Telefonu",
+                        "link": "/cep-telefonu-x-c103498"
+                    },
+                    {
+                        "name": "Kapak & Kılıf",
+                        "link": "/kapak-ve-kilif-x-c104026"
+                    },
+                    {
+                        "name": "Şarj Cihazları",
+                        "link": "/sarj-cihazlari-x-c103112"
+                    },
+                    {
+                        "name": "Powerbank",
+                        "link": "/tasinabilir-batarya-x-c103113"
+                    }
+                ]
+            },
+            {
+                "name": "Bilgisayar & Tablet",
+                "link": "/bilgisayar-tablet-x-c103660",
+                "subcategories": [
+                    {
+                        "name": "Laptop",
+                        "link": "/laptop-x-c103108"
+                    },
+                    {
+                        "name": "Mouse",
+                        "link": "/mouse-x-c108664"
+                    },
+                    {
+                        "name": "Klavye",
+                        "link": "/klavye-x-c103671"
+                    },
+                    {
+                        "name": "Tablet",
+                        "link": "/tablet-x-c103665"
+                    },
+                    {
+                        "name": "Monitör",
+                        "link": "/monitor-x-c103668"
+                    },
+                    {
+                        "name": "Oyuncu Bilgisayarı",
+                        "link": "/oyuncu-bilgisayari-x-c106083"
+                    },
+                    {
+                        "name": "ADSL & VDSL",
+                        "link": "/ag-modem-x-c103661"
+                    }
+                ]
+            },
+            {
+                "name": "TV & Görüntü & Ses",
+                "link": "/tv-goruntu-ses-sistemleri-x-c104035",
+                "subcategories": [
+                    {
+                        "name": "Televizyon",
+                        "link": "/televizyon-x-c104156"
+                    },
+                    {
+                        "name": "Kulaklık",
+                        "link": "/kulaklik-x-c92"
+                    },
+                    {
+                        "name": "Hoparlör",
+                        "link": "/hoparlor-x-c1067"
+                    },
+                    {
+                        "name": "Kablo & Sarf",
+                        "link": "/kablo-sarf-malzemeler-x-c104460"
+                    }
+                ]
+            },
+            {
+                "name": "Oyun Konsolları",
+                "link": "/oyun-ve-oyun-konsollari-x-c104044",
+                "subcategories": [
+                    {
+                        "name": "Playstation",
+                        "link": "/playstation-x-c104270"
+                    },
+                    {
+                        "name": "Xbox",
+                        "link": "/xbox-x-c104272"
+                    },
+                    {
+                        "name": "Nintendo",
+                        "link": "/nintendo-x-b104993"
+                    },
+                    {
+                        "name": "Konsol Aksesuarları",
+                        "link": "/konsol-aksesuarlari-x-c104045"
+                    },
+                    {
+                        "name": "E-pin ve Cüzdan Kodu",
+                        "link": "/e-pin-ve-cuzdan-kodu-x-c109059"
+                    },
+                    {
+                        "name": "Playstation 5",
+                        "link": "/ps5-y-s8249"
+                    },
+                    {
+                        "name": "Playstation Oyunları",
+                        "link": "/playstation-oyunlari-x-c105797"
+                    }
+                ]
+            },
+            {
+                "name": "Beyaz Eşya",
+                "link": "/beyaz-esya-x-c103613",
+                "subcategories": [
+                    {
+                        "name": "Buzdolabı",
+                        "link": "/buzdolabi-x-c103623"
+                    },
+                    {
+                        "name": "Çamaşır Makinesi",
+                        "link": "/camasir-makinesi-x-c103625"
+                    },
+                    {
+                        "name": "Bulaşık Makinesi",
+                        "link": "/bulasik-makinesi-x-c103621"
+                    },
+                    {
+                        "name": "Ankastre",
+                        "link": "/ankastre-x-c103615"
+                    },
+                    {
+                        "name": "Mini Fırın",
+                        "link": "/mini-midi-firin-x-c103682"
+                    },
+                    {
+                        "name": "Klima",
+                        "link": "/klima-x-c104080"
+                    }
+                ]
+            },
+            {
+                "name": "Kişisel Bakım",
+                "link": "/elektronik-kisisel-bakim-x-c103109",
+                "subcategories": [
+                    {
+                        "name": "Saç Düzleştirici",
+                        "link": "/sac-duzlestirici-x-c1160"
+                    },
+                    {
+                        "name": "Tıraş Makinesi",
+                        "link": "/tiras-makinesi-x-c102377"
+                    },
+                    {
+                        "name": "Saç Maşası",
+                        "link": "/sac-masasi-x-c1163"
+                    },
+                    {
+                        "name": "Saç Kurutma Makinesi",
+                        "link": "/sac-kurutma-makinesi-x-c1161"
+                    },
+                    {
+                        "name": "Epilasyon Aleti",
+                        "link": "/epilasyon-aleti-x-c104074"
+                    }
+                ]
+            },
+            {
+                "name": "Veri Depolama",
+                "link": "/veri-depolama-x-c103664",
+                "subcategories": [
+                    {
+                        "name": "Harici Disk",
+                        "link": "/tasinabilir-disk-x-c108111"
+                    },
+                    {
+                        "name": "USB Bellek",
+                        "link": "/usb-bellek-x-c1199"
+                    },
+                    {
+                        "name": "SSD Bellek",
+                        "link": "/ssd-harddisk-x-c103784"
+                    },
+                    {
+                        "name": "Hafıza Kartı",
+                        "link": "/hafiza-karti-x-c103782"
+                    }
+                ]
+            },
+            {
+                "name": "Diğer Kategoriler",
+                "link": "/elektronik-x-c104024",
+                "subcategories": [
+                    {
+                        "name": "Aksiyon Kamera",
+                        "link": "/aksiyon-kamera-x-c104245"
+                    },
+                    {
+                        "name": "Laptop Çantası",
+                        "link": "/laptop-cantasi-x-c1107"
+                    },
+                    {
+                        "name": "Yazıcı & Tarayıcı",
+                        "link": "/yazici-tarayici-x-c104116"
+                    },
+                    {
+                        "name": "Foto & Kamera",
+                        "link": "/foto-ve-kamera-x-c104037"
+                    },
+                    {
+                        "name": "Instax Mini",
+                        "link": "/instax-mini-y-s5855"
+                    },
+                    {
+                        "name": "Kindle",
+                        "link": "/e-kitap-x-c103673"
+                    },
+                    {
+                        "name": "Hediye Kartları",
+                        "link": "/hediye-kartlari-x-c109060"
+                    }
+                ]
+            }
+        ]
+    }
+]

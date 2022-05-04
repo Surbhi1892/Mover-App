@@ -1,0 +1,63 @@
+{
+    "project_info": {
+        "project_number": "1034585683551",
+        "firebase_url": "https://mover-a8f6f.firebaseio.com",
+        "project_id": "mover-a8f6f",
+        "storage_bucket": "mover-a8f6f.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1034585683551:android:058b706f5e1f6774",
+                "android_client_info": {
+                    "package_name": "az.mover.mobile.android"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1034585683551-h6ankm3v62eqab3fueur7bteij24k9sk.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "az.mover.mobile.android",
+                        "certificate_hash": "88bc988cc384452f4efc2144c9696ceee3efc806"
+                    }
+                },
+                {
+                    "client_id": "1034585683551-te144j5toph5c9nvria0ickutjusq17n.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "az.mover.mobile.android",
+                        "certificate_hash": "db05212033998da81642cad16e1f61cc7b517c6a"
+                    }
+                },
+                {
+                    "client_id": "1034585683551-dne3njmk2m8dt2806guop2e9vo1c4rih.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC1a1ohmHvOiJ3E3qCxUdsGy_IqFZxfMX4"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1034585683551-dne3njmk2m8dt2806guop2e9vo1c4rih.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "1034585683551-4aq9dchs7rci2hq6sbtf64pf2nd3hpkd.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "az.mover.mobile.ios"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

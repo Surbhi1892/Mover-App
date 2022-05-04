@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1034585683551-4aq9dchs7rci2hq6sbtf64pf2nd3hpkd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1034585683551-4aq9dchs7rci2hq6sbtf64pf2nd3hpkd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1034585683551-h6ankm3v62eqab3fueur7bteij24k9sk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1SojaUhf-IbWfJRtfFGQns1k5vQ4_lZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1034585683551</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>az.mover.mobile.ios</string>
+	<key>PROJECT_ID</key>
+	<string>mover-a8f6f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mover-a8f6f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1034585683551:ios:d2545a1435b78c50</string>
+	<key>DATABASE_URL</key>
+	<string>https://mover-a8f6f.firebaseio.com</string>
+</dict>
+</plist>

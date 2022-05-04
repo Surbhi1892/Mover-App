@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mover</string>
+    <string name="facebook_app_id">323940085135348</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">ntTv3N-ZM0Bq3lSHM-n-jkOJt1Vh5Og7M7RNk</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
